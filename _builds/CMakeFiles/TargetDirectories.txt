@@ -1,3 +1,0 @@
-/home/ben/Documents/ECS36B/readings/cgold/_builds/CMakeFiles/rebuild_cache.dir
-/home/ben/Documents/ECS36B/readings/cgold/_builds/CMakeFiles/foo.dir
-/home/ben/Documents/ECS36B/readings/cgold/_builds/CMakeFiles/edit_cache.dir
